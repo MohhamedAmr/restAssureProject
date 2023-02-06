@@ -1,0 +1,109 @@
+{
+
+
+
+  "description": {
+    "ar": "مطاعم الدهان ترحب بكم",
+    "en": "Unique Store"
+  },
+  "name": {
+    "ar": "الدهان",
+    "en": "ELDAHAN lll"
+  },
+  "commercialRegistration": null,
+  "storeLogoName": "",
+  "storeLogoContent": "",
+  "commercialRegPhotoName": "",
+  "commercialRegPhotoContent": "",
+  "twitterAccount": "",
+  "instagramAccount": "",
+  "youtubeAccount": "",
+  "facebookAccount": "",
+  "snapchatAccount": "",
+  "partnerId": null,
+  "isAvailable": false,
+  "isActivated": false,
+  "hotline": null,
+  "maxEstimationDeliveryTime": "15",
+  "isMainStore": false,
+  "location": {
+    "latitude": 30.0573906,
+    "longitude": 31.2062722
+  },
+  "workingDays": [
+    {
+      "id": 0,
+      "day": 0,
+      "workingFrom": "08:00",
+      "workingTo": "20:00",
+      "timeZone": 2
+    },
+    {
+      "id": 0,
+      "day": 1,
+      "workingFrom": "05:44",
+      "workingTo": "19:59",
+      "timeZone": 2
+    },
+    {
+      "id": 0,
+      "day": 1,
+      "workingFrom": "20:03",
+      "workingTo": "22:56",
+      "timeZone": 2
+    },
+    {
+      "id": 0,
+      "day": 2,
+      "workingFrom": "08:07",
+      "workingTo": "15:07",
+      "timeZone": 2
+    },
+    {
+      "id": 0,
+      "day": 2,
+      "workingFrom": "15:10",
+      "workingTo": "20:50",
+      "timeZone": 2
+    },
+    {
+      "id": 0,
+      "day": 3,
+      "workingFrom": "07:45",
+      "workingTo": "20:45",
+      "timeZone": 2
+    },
+    {
+      "id": 0,
+      "day": 4,
+      "workingFrom": "08:04",
+      "workingTo": "20:00",
+      "timeZone": 2
+    },
+    {
+      "id": 0,
+      "day": 5,
+      "workingFrom": "12:22",
+      "workingTo": "23:22",
+      "timeZone": 2
+    },
+    {
+      "id": 0,
+      "day": 6,
+      "workingFrom": "10:15",
+      "workingTo": "19:00",
+      "timeZone": 2
+    },
+    {
+      "id": 0,
+      "day": 6,
+      "workingFrom": "19:01",
+      "workingTo": "23:00",
+      "timeZone": 2
+    }
+  ],
+  "storeCoverImageName": "",
+  "storeCoverImageContent": "",
+  "minimumCharge": 20
+
+}
